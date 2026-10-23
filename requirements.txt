@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+statsmodels
+pytest
+streamlit
+google-genai
+pillow
+requests
